@@ -35,7 +35,4 @@ int main(){
     delete noA;
     delete noB;
     delete noC;
-    
-
-
 }
